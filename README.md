@@ -3,7 +3,6 @@
 - Currently I’m pursing a bachelor’s degree in Information Technology at UFRN (Universidade Federal do Rio Grande do Norte)
 - I am passionate about technology, dogs, movies, and new wave music. Especially if it’s <mark>The Cure.</mark>
 - I’m currently learning Javascript
-- Working in a University Extension Project at UFRN "Tecendo Conexões Digitais: Fake News & Storytelling"
 
 ---
 
