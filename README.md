@@ -7,9 +7,10 @@ Right now, I’m immersed in the Generative AI landscape, exploring the synergy 
 
 Outside of code and model training, I cherish being with my family, exploring Brazilian cinema, and vibing to New Wave classics. **The Cure** and **A-ha** are the constant soundtracks to my daily life.
 
+[Check my last project!](https://github.com/mariiyanis/ENEM-NORDESTE-2023)
+
 ---
 
 ## 📫 Let's Connect!
-[LinkedIn]([https://www.linkedin.com/in/mariliayanis]) | [Email](mailto:marilia.candido.135@ufrn.edu.br)
+[LinkedIn](https://www.linkedin.com/in/mariliayanis/) | [Email](mailto:marilia.candido.135@ufrn.edu.br)
 
-[Check my last project!](https://github.com/mariiyanis/ENEM-NORDESTE-2023)
