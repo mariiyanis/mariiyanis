@@ -7,7 +7,7 @@ Right now, I’m immersed in the Generative AI landscape, exploring the synergy 
 
 Outside of code and model training, I cherish being with my family, exploring Brazilian cinema, and vibing to New Wave classics. **The Cure** and **A-ha** are the constant soundtracks to my daily life.
 
-[Check my last project!]([https://github.com/mariiyanis/ENEM-NORDESTE-2023](https://github.com/mariiyanis/customer-churn-prediction)
+[Check my last project!](https://github.com/mariiyanis/customer-churn-prediction)
 
 ---
 
