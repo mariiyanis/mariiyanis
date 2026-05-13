@@ -17,12 +17,6 @@ Outside of code and model training, I cherish being with my family, exploring Br
 
 ## [Check my last project!](https://github.com/mariiyanis/customer-churn-prediction)
 
----
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariiyanis&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
---
-
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariliayanis/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marilia.candido.135@ufrn.edu.br)
